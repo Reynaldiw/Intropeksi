@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intropeksi</string>
+
+    <string name="pembukaan">Pertama-tama sebelum memulai aplikasi, anggap aplikasi ini adalah sebuah toko yang memiliki 6 lantai. Toko ini bernama toko calon suami, dimana toko ini mengkhususkan untuk para perempuan yang hanya bisa mamasuki toko tersebut. Toko ini menjual calon suami dan perempuan yang ingin mencari calon suami hanya boleh berkunjung ke toko ini satu kali. Toko ini juga mempunya peraturan. Apa saja peraturannya ? </string>
+
+    <string name="rules">
+        1. Pikirkan Matang-Matang sebelum memilih
+        2. Jika telah dipikirkan, pilih salah satu tombol yang telah disediakan
+        3. Setelah dipilih nanti akan ada arahan lebih lanjut
+        4. Jika anda sudah siap, silahkan klik tombol yang ada dibawah
+    </string>
+
+    <string name="puas_atau_belumpuas">Nah apakah kamu sudah merasa puas untuk memiliki lelaki ini ? Atau belum puas ? Silahkan pilih finish jika sudah puas, dan pilih next jika belum puas.</string>
+
+    <string name="puas_atau_belumpuas2">Makin interesting kan ? Gimana hayoo, lanjut atau kagak ? Silahkan pilih finish jika sudah puas, dan pilih next jika belum puas. </string>
+
+    <string name="puas">Kamu adalah peserta yang ke-4363012. Maaf, tidak ada lelaki disini. Disisni hanya untuk mengetes seberapa puaskah kamu untuk memilih pasangan hidup.  Kebanyakan wanita banyak yang menginginkan untuk memiliki pasangan hidup yang sempurna tanpa ada kekurangan sedikit pun. Nah, kamu adalah mungkin tipe perempuan yang dapat menerima pasangan hidup kalian apa adanya, tanpa memandang kekurangan yang dimiliki pasangan kamu. Oleh karena itu kita mengucapkan terima kasih yang sebesar-besarnya karena telah mengunjungi toko ini. So, have a nice day. And dont forget, No one Perfect. </string>
+</resources>

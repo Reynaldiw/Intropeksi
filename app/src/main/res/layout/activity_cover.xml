@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CoverActivity"
+    android:background="@drawable/bg_awal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="42dp"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="INTROPEKSI"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sudahkah kalian berintropeksi atas diri sendiri ? Karena introplesi mengajarkan kita sesuatu yang baru di dunia ini agar tidak menyesal di hari esok. Jadi marilah segera berintropkesi diri masing-masing."
+        android:textSize="20dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btnStartCover"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="52dp"
+        android:text="START"
+        android:background="#9e8d8d"
+        android:textSize="15dp"/>
+
+</RelativeLayout>

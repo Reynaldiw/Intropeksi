@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FifthFloorActivity"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="lantai lima ada lelaki yang punya pekerjaan, taat pada Tuhan, suka anak kecil, wajahnya tampan, punya tempat tinggal, serta berkarakter romantic."
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/puas_atau_belumpuas"
+        android:textSize="20dp"
+        android:layout_marginTop="110dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnFinishFifth"
+        android:layout_alignParentBottom="true"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Finish"/>
+
+    <Button
+        android:id="@+id/btnNextFifth"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="220dp"
+        android:layout_alignParentBottom="true"
+        android:text="Next"/>
+
+</RelativeLayout>

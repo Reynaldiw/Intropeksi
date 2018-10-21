@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SixthFloorActivity"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Anda adalah pengunjung yang ke 4363012 tak ada lelaki di  lantai ini , lantai ini hanya sebagai bukti untuk wanita yang tidak pernah puas dan bersyukur seperti Anda! Terimakasih sudah datang ke toko suami. Hati-hati saat keluar toko, semoga hari ini hari yang indah. Sadarilah bahwa tidak ada mahkluk yang sempurna"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnFinishSixth"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="220dp"
+        android:layout_alignParentBottom="true"
+        android:text="Finish"/>
+
+</RelativeLayout>
